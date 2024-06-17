@@ -31,7 +31,6 @@ Your objective is to practice OOP concepts and JS class notation syntax.
 Now we'll create a subclass `Coder` that inherits from our `Person` class
 
 1. Use class notation to create a class named `Coder` that inherits from the `Person` class
-2. Declare the `constructor()` method with parameters `name` (string), `pets` (number), `residence` (string), and `hobbies` (array) allowed to be passed in
 3. Call the `super()` method inside the `constructor` method and pass in the given parameters
 4. Still inside the `constructor` body, assign `this.occupation` as `"Full Stack Web Developer"`
 5. Override the `greeting()` method to `console.log` a custom greeting from a coder...
